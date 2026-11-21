@@ -1,4 +1,4 @@
-# SigmaOS-mint-drivers-detector
+# SigmaOS-drivers-detector
 
 Driver detector for SigmaOS inspired by Linux Mint
 

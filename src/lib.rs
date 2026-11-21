@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: Apache-2.0
-//! SigmaOS-mint-drivers-detector: mint drivers detector component model.
+//! SigmaOS-drivers-detector: mint drivers detector component model.
 //!
 //! Real implementation: drivers, events, validation, deterministic storage.
 //! Replaces the placeholder stub.

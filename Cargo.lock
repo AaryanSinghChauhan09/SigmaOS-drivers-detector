@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "SigmaOS-mint-drivers-detector"
+name = "sigmaos-drivers-detector"
 version = "0.1.0"
